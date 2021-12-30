@@ -1,0 +1,97 @@
+{
+  "configVersion": 1,
+  "timestamp": 1640875714559,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "prm-expense-control",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/226.6d2adef4f6a89e08.js",
+        "/556.a80935ef86b5a548.js",
+        "/602.143aa18d040bb1e2.js",
+        "/639.d658e6d067ed3503.js",
+        "/713.38ee464ad3181123.js",
+        "/814.77fb659b9a5375d0.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.8be47be93ab24a88.js",
+        "/manifest.webmanifest",
+        "/polyfills.b0076bc8be9181d8.js",
+        "/runtime.a1deb3582fca7342.js",
+        "/scripts.120ba38e5fb761e4.js",
+        "/styles.2c36ba6e21e358c4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/LOGO_PRIMUM_BLACK.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/226.6d2adef4f6a89e08.js": "5242e3550f85f15d29652453a0b3ee6d9b0a255f",
+    "/556.a80935ef86b5a548.js": "331edddab3df8457bcf33a0d971fba5f9bd33e8a",
+    "/602.143aa18d040bb1e2.js": "8df64d76bde34b41c2cd237d549bede22dbdf909",
+    "/639.d658e6d067ed3503.js": "7e3554a5c1803db2c86d658b5b9c3c9e2f7777af",
+    "/713.38ee464ad3181123.js": "de00652c6f9d6485966edfc93c4700ef60713d2e",
+    "/814.77fb659b9a5375d0.js": "ab7afe055cd2baac48fdc7341a8abd544b00a213",
+    "/assets/LOGO_PRIMUM_BLACK.png": "f8d61d618bca144ff4770a5ae5475e5c8f4938d0",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "03b3e392a49b704ac7c69a7116c806a033c6d6bc",
+    "/main.8be47be93ab24a88.js": "7574495250e7fa11e5affdd11b4923bc3edc0767",
+    "/manifest.webmanifest": "4546d2fc0e2533f02cf5927f7ea420b092d77d52",
+    "/polyfills.b0076bc8be9181d8.js": "f1711042f7567c46a59fbe79a3269cd6f10d0721",
+    "/runtime.a1deb3582fca7342.js": "f60427fd894c786a251ee91634b7bad20a4460b1",
+    "/scripts.120ba38e5fb761e4.js": "38c97e077fd90f99b9d83c41fc78ba5dd2765edb",
+    "/styles.2c36ba6e21e358c4.css": "d7e7ceb78a7a48780f2520a1c38782b290e53e42"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
